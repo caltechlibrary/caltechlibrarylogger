@@ -1,9 +1,9 @@
-Change log for REPOSITORY
+Change log for Caltech Library Logger
 =========================
 
 Version 0.0.0
 -------------
 
-* Write about a change here
-* Write about another change here
-* Write about a 3rd change
+* add logo.png
+* begin README modifications
+* add python files
